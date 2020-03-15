@@ -1,4 +1,4 @@
-##2019 Columbia Data Science Society hackathon 
+## 2019 Columbia Data Science Society hackathon 
 
 This project is the 2019 Columbia Data Science Society Hackathon project sponsored by Facebook NYC Academy. After two days work, we managed to achieve 1st Place.
 
